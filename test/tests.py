@@ -3,4 +3,4 @@ import pytest
 
 
 def test_first_case():
-    pass
+    print("Hello, world!")
